@@ -8,7 +8,7 @@
 - 📫 How to reach me **bilgenburak@outlook.com**
 
 - 🚀 As part of my graduation project, I developed the Mars: Explore Space app that gives access to users to read news, blog posts, and reports about space and related topics. Application features six different sections, each focusing on a unique interest and providing a wealth of information for space enthusiasts.
-Mars: Explore Space on [App Store](https://apps.apple.com/tr/app/mars-explore-space/id1637327327)
+Check out the Mars: Explore Space on [App Store](https://apps.apple.com/tr/app/mars-explore-space/id1637327327).
 
 - 📄 I'm excited to announce that this is my new GitHub account. You can check out my old account at github.com/bilgenburak, but please note that I have removed my old repositories because I didn't feel they accurately represented my skills. I'm looking forward to sharing my new projects on this account and hope you will follow along.
 
