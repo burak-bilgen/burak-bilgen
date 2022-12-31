@@ -14,7 +14,6 @@ Check out the Mars: Explore Space on [App Store](https://apps.apple.com/tr/app/m
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_burakbilgen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_burakbilgen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/burakbilgen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakbilgen" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bilgenburak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bilgenburak" height="30" width="40" /></a>
 </p>
