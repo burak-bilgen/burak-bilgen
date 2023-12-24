@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MARS](https://www.marsneo.com/)
 
-- 🌱 I’m currently learning **Clean Architecture**
+- 🌱 I’m currently learning the **Clean Architecture**
 
 - 📫 How to reach me **bilgenburak@outlook.com**
 
