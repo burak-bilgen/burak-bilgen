@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Burak Bilgen.</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 
-- 🔭 I’m currently working on [MARS](https://www.marsneo.com/)
+- 🔭 I’m currently working at [MARS](https://www.marsneo.com/)
 
 - 🌱 I’m currently learning the **Clean Architecture**
 
