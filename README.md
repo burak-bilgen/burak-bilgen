@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Burak Bilgen.</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Kassa](https://kassa.co/)
+- 🔭 I’m currently working on [MARS](https://https://www.marsneo.com//)
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **Clean Architecture**
 
 - 📫 How to reach me **bilgenburak@outlook.com**
 
