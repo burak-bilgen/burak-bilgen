@@ -1,4 +1,4 @@
-<h1 align="left">Yo! Check out my work!</h1>
+<h1 align="left">Hey!</h1>
 
 ###
 
