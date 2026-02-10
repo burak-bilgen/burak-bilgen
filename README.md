@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning the Clean Architecture<br>🎯 Goal: Reaching $1K MMR</p>
+<p align="left">✨ Creating bugs since 2021</p>
 
 ###
 
