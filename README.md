@@ -30,8 +30,8 @@ An experienced iOS developer with over **four years of experience** building mob
 
 <p align="center">
   <a href="https://github.com/burak-bilgen">
-    <img height="180em" src="https://github-readme-stats-swart-seven.vercel.app/api?username=burak-bilgen&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats-swart-seven.vercel.app/api/top-langs?username=burak-bilgen&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=burak-bilgen&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=burak-bilgen&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
