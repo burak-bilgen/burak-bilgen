@@ -1,11 +1,11 @@
 # Hi there, I'm Burak! 👋
-### Senior iOS Developer
+### Senior iOS Developer  <img src="https://img.shields.io/badge/-Apple-000000?style=flat-square&logo=apple&logoColor=white" height="18" alt="Apple" />
 
-<p align="center">
+<div align="center" style="background-color: #000000; border-radius: 8px; padding: 10px;">
   <img src="hello.gif" width="60%" alt="Hello in different languages" />
-</p>
+</div>
 
-I'm an iOS Developer with **4+ years of experience** building fintech, trading, and cryptocurrency applications. I focus on writing clean, modular code and building systems that are reliable and maintainable.
+An experienced iOS developer with over **four years of experience** building mobile apps for fintech and cryptocurrency. Skilled at designing high‑performance trading interfaces, KYC verification flows, multi‑currency wallets and real‑time data streams. Values modular architectures with Swift, SwiftUI and Combine, writes clean code and always balances performance with security. Continues to refine product design and user experience through side projects.
 
 * 🏗️ **Architecture & Concurrency:** Modular architectures, protocol-oriented design, structured concurrency.
 * 🔒 **Fintech Security:** SSL pinning, secure storage, real-time WebSocket communication, KYC compliance.
@@ -124,4 +124,5 @@ I'm open to **Senior iOS Developer** roles and freelance opportunities — espec
   <a href="https://linkedin.com/in/burak-bilgen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:bilgenburak@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/burak-bilgen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://burakbilgen.lovable.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
