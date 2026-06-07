@@ -1,7 +1,7 @@
 # Hi there, I'm Burak! 👋
 ### <img src="https://img.shields.io/badge/--black?style=flat-square&logo=apple&logoColor=white" height="18" style="vertical-align: middle;" alt="Apple" />  Senior iOS Developer
 
-An experienced iOS developer with over **four years of experience** building mobile apps for *fintech* and *cryptocurrency*.
+An iOS developer with over **four years of experience** building mobile apps for *fintech* and *cryptocurrency*.
 Skilled at designing **high‑performance trading interfaces**, *KYC verification flows*, **multi‑currency wallets** and **real‑time data streams**.
 Values **modular architectures** with `Swift`, `SwiftUI` & `Combine` — always balancing *performance* with *security*.
 Continues to refine *product design* and *user experience* through side projects.
