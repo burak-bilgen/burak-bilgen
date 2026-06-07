@@ -112,8 +112,6 @@ An intelligent news reader that aggregates content from 6 sources (NewsAPI, Guar
 
 ---
 
----
-
 <p align="center">
   <img src="city.gif" width="80%" alt="Pixel City" />
 </p>
