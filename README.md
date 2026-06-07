@@ -18,10 +18,11 @@ An experienced iOS developer with over **four years of experience** building mob
 | Category | Technologies & Frameworks |
 | :--- | :--- |
 | **Languages & Frameworks** | `Swift` • `SwiftUI` • `UIKit` • `Combine` • `RxSwift` |
-| **Architectures** | `MVVM-C` • `VIPER` • `Clean Architecture` • `Unidirectional Data Flow` • `Modular Monolith` |
-| **Networking & Data** | `WebSockets` • `REST APIs` • `Core Data` • `Realm` • `Firebase` |
-| **Security & Analytics** | `SSL Pinning` • `Keychain` • `Secure Storage` • `MASAK Compliance` • `Firebase Crashlytics` |
-| **DevOps & Tools** | `Git` • `Xcode` • `Xcode Cloud` • `CircleCI` • `SPM` • `CocoaPods` • `Proxyman` |
+| **Architecture** | `MVVM` • `MVVM-C` • `VIPER` • `Clean Architecture` • `Modular Architecture` |
+| **Networking & Data** | `REST APIs` • `WebSockets` • `Firebase` • `Core Data` • `Realm` |
+| **Security** | `SSL Pinning` • `Keychain` • `Secure Storage` |
+| **Tools & DevOps** | `Git` • `Xcode` • `Xcode Cloud` • `CircleCI` • `SPM` • `CocoaPods` • `Postman` • `Proxyman` • `Firebase Crashlytics` |
+| **Engineering Practices** | `TDD` • `Unit Testing` • `Code Review` • `Agile (Scrum, Kanban)` |
 
 ---
 
