@@ -107,7 +107,7 @@ An intelligent news reader that aggregates content from 6 sources (NewsAPI, Guar
 ## 📈 Approach
 
 * **Stability:** I use Xcode Instruments (Allocations/Leaks) to track and fix memory issues in production.
-* **Code Quality:** I follow `SOLID` principles and use automated linting to keep the codebase consistent.
+* **Code Quality:** I follow SOLID principles and use automated linting to keep the codebase consistent.
 * **Learning:** Currently working with Swift 6 Strict Concurrency and exploring new architecture patterns.
 
 ---
