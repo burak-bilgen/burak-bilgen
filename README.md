@@ -1,5 +1,5 @@
 # Hi there, I'm Burak! 👋
-### Senior iOS Developer  <img src="https://img.shields.io/badge/--black?style=flat-square&logo=apple&logoColor=white" height="18" alt="Apple" />
+### <img src="https://img.shields.io/badge/--black?style=flat-square&logo=apple&logoColor=white" height="18" style="vertical-align: middle;" alt="Apple" />  Senior iOS Developer
 
 <div align="center" style="background-color: #000000; border-radius: 8px; max-height: 200px; overflow: hidden;">
   <img src="hello.gif" width="100%" alt="Hello in different languages" />
