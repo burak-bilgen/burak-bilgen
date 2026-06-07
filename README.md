@@ -2,7 +2,7 @@
 ### <img src="https://img.shields.io/badge/--black?style=flat-square&logo=apple&logoColor=white" height="18" style="vertical-align: middle;" alt="Apple" />  Senior iOS Developer
 
 <div align="center" style="background-color: #000000; border-radius: 8px;">
-  <img src="hello.gif" width="100%" height="200" alt="Hello in different languages" />
+  <img src="hello.svg" width="100%" height="260" alt="Hello in different languages" />
 </div>
 
 An experienced iOS developer with over **four years of experience** building mobile apps for fintech and cryptocurrency. Skilled at designing high‑performance trading interfaces, KYC verification flows, multi‑currency wallets and real‑time data streams. Values modular architectures with Swift, SwiftUI and Combine, writes clean code and always balances performance with security. Continues to refine product design and user experience through side projects.
