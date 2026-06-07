@@ -1,15 +1,11 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=burak-bilgen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 # Hi there, I'm Burak! 👋
-### Senior iOS Engineer | Mobile Architect
+### Senior iOS Developer
 
-I am an elite iOS Architect with **4+ years of professional experience** specializing in high-performance fintech, real-time trading systems, and cryptocurrency applications. My core focus is building highly scalable modular architectures, low-latency data systems, and bulletproof security flows.
+I'm an iOS Developer with **4+ years of experience** building fintech, trading, and cryptocurrency applications. I focus on writing clean, modular code and building systems that are reliable and maintainable.
 
-* 🚀 **Core Expertise:** High-Concurrency Systems, Modular Architecture, Protocol-Oriented Design.
-* 🛡️ **Fintech Focus:** Secure Financial Flows, SSL Pinning, Real-time WebSockets, and Compliant KYC Systems.
-* 🛠️ **Engineering Culture:** Memory Profiling, Strict Concurrency (Swift 6), TDD, and Automated CI/CD Pipelines.
+* 🏗️ **Architecture & Concurrency:** Modular architectures, protocol-oriented design, structured concurrency.
+* 🔒 **Fintech Security:** SSL pinning, secure storage, real-time WebSocket communication, KYC compliance.
+* 🧪 **Engineering Practices:** Memory profiling, Swift 6 Strict Concurrency, TDD, CI/CD automation.
 
 ---
 
@@ -17,11 +13,11 @@ I am an elite iOS Architect with **4+ years of professional experience** special
 
 | Category | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages & Frameworks** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1572B6?style=flat-square&logo=Swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-007ACC?style=flat-square&logo=apple&logoColor=white) ![Combine](https://img.shields.io/badge/Combine-FF6100?style=flat-square&logo=apple&logoColor=white) ![RxSwift](https://img.shields.io/badge/RxSwift-B83BA3?style=flat-square&logo=ReactiveX&logoColor=white) |
+| **Languages & Frameworks** | `Swift` • `SwiftUI` • `UIKit` • `Combine` • `RxSwift` |
 | **Architectures** | `MVVM-C` • `VIPER` • `Clean Architecture` • `Unidirectional Data Flow` • `Modular Monolith` |
-| **Networking & Data** | ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) `REST APIs` • `Core Data` • `Realm` • `Firebase` |
-| **Security & Analytics** | `SSL Pinning` • `Keychain & Secure Storage` • `MASAK Compliance` • `Firebase Crashlytics` |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-1572B6?style=flat-square&logo=xcode&logoColor=white) `Xcode Cloud` • `CircleCI` • `SPM` • `CocoaPods` • `Proxyman` |
+| **Networking & Data** | `WebSockets` • `REST APIs` • `Core Data` • `Realm` • `Firebase` |
+| **Security & Analytics** | `SSL Pinning` • `Keychain` • `Secure Storage` • `MASAK Compliance` • `Firebase Crashlytics` |
+| **DevOps & Tools** | `Git` • `Xcode` • `Xcode Cloud` • `CircleCI` • `SPM` • `CocoaPods` • `Proxyman` |
 
 ---
 
@@ -29,8 +25,8 @@ I am an elite iOS Architect with **4+ years of professional experience** special
 
 <p align="center">
   <a href="https://github.com/burak-bilgen">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=burak-bilgen&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burak-bilgen&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-swart-seven.vercel.app/api?username=burak-bilgen&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-swart-seven.vercel.app/api/top-langs?username=burak-bilgen&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -38,60 +34,88 @@ I am an elite iOS Architect with **4+ years of professional experience** special
   <img src="https://streak-stats.demolab.com/?user=burak-bilgen&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=burak-bilgen&theme=github-dark&hide_border=true" width="95%" alt="Activity Graph"/>
+</p>
+
 ---
 
-## 🗂️ Featured Projects Showcase
+## 🗂️ Projects
 
-Burada en iyi teknik pratiklerimi, mimari yaklaşımlarımı ve kod kalitesi standartlarımı sergilediğim açık kaynaklı projelerim yer almaktadır:
+### 1. 🌤️ ForeWiz — Personal Weather Decision Assistant
+> `v2.0` • `📱 iOS 17+` • `🍏 WeatherKit` • `🧪 Decision Engines`
 
-### 1. 📈 ForeWiz (Forex & Financial Assistant)
-> **Primary Focus:** High-Performance Architecture, Live Data Streaming, Complex State Management.
+> **Focus:** Weather Intelligence, Decision Engines, Route Planning.
 
-ForeWiz is an advanced financial assistant application designed to track live market data, manage user portfolios, and optimize data synchronization under high-concurrency scenarios.
+ForeWiz transforms Apple WeatherKit data into personalized, actionable decisions. It doesn't just show the weather — it tells you when to go out, what to wear, and how it might affect your health.
 
-* **Architecture:** Robust `VIPER` / `MVVM-C` hybrid pattern enforcing strict separation of concerns and 100% Protocol-Oriented communication.
-* **Key Achievements:**
-  * Implemented low-latency `WebSocket` pipelines for real-time price streaming and order book synchronization.
-  * Designed defensive error-handling mechanisms and memory profiling routines to eliminate retain cycles.
-* **Tech Stack:** Swift, UIKit (Programmatic UI), Combine, WebSockets, Secure Storage.
+* **Architecture:** `Clean Architecture` + `MVVM-C` with Swift actors and protocol-driven repositories.
+* **Highlights:**
+  * **Decision Engine** — Scores outdoor conditions (0–100) with activity windows, outfit recommendations, and health impact analysis (migraine, sleep, joints, respiratory, stamina).
+  * **WizPath** — Climate-aware route planning SPM package with multi-modal routing (driving, cycling, walking, EV), weather-coded map overlays, safety alerts, and departure optimization.
+  * **Liquid Glass Design System** — Premium dark-mode UI with animated gradient orbs, glass cards, and weather-responsive themes.
+  * **Monetization** — Google AdMob integration with smart fatigue prevention and consent management.
+  * **Siri Shortcuts** — 6 intents for quick weather queries.
+* **Tech Stack:** Swift, SwiftUI, WeatherKit, MapKit, TipKit, Google AdMob, SPM (WizPathKit).
 * 🔗 **Repository:** [View on GitHub](https://github.com/burak-bilgen/ForeWiz)
 
 ---
 
-### 2. 🎬 DeFilms (Production-Ready Movie Discovery)
-> **Primary Focus:** Scalable Modularization, Clean Architecture, App Store Engineering Standards.
+### 2. 🎬 DeFilms — Movie Discovery
+> `✅ App Store Ready` • `🧪 88 tests` • `🍏 Apple Intelligence` • `🌐 EN / TR / AR`
 
-A production-ready movie discovery platform that showcases how a monolithic app scales efficiently into isolated packages to maximize build-time performance and local team horizontal scaling.
+> **Focus:** TMDB API, Apple Intelligence, Localization.
 
-* **Architecture:** `Clean Architecture` + `Modular Monolith` via Local Swift Packages (SPM).
-* **Key Achievements:**
-  * Shipped and maintained on the **App Store** with a highly optimized, smooth user navigation system.
-  * Isolated Network, Core UI, and Feature layers into distinct targets to prevent tight coupling.
-* **Tech Stack:** Swift, SwiftUI, UIKit, REST APIs, Local SPM Modules, XCTest.
+A SwiftUI movie discovery app built with the TMDB API. Approached as a small product rather than a one-off demo — stable navigation, testable state, polished localization.
+
+* **Architecture:** Feature-oriented `MVVM` + Coordinator pattern with protocol-driven dependencies.
+* **Highlights:**
+  * **AI Picks** — On-device movie recommendations via Apple Foundation Models, with mood-based prompts and graceful fallback when unavailable.
+  * **Custom Lists** — Multiple named lists instead of a single flat "saved" bucket, with full CRUD and movie management.
+  * **Localization** — English, Turkish, and Arabic with RTL-aware layout handling.
+  * **Search** — With validation, recent history, and advanced filter/sort controls.
+  * **88 tests** (72 unit + 16 UI), all passing.
+* **Tech Stack:** Swift, SwiftUI, Swift Concurrency, Core Data, Keychain, CryptoKit, Apple Foundation Models, XCTest.
 * 🔗 **Repository:** [View on GitHub](https://github.com/burak-bilgen/DeFilms)
 
 ---
 
-### 3. 📰 NewsApto (Modern Reactive News Client)
-> **Project Focus:** Reactive Programming, Unidirectional Data Flow, Advanced UI Composition.
+### 3. 📰 NewsApto — Intelligent News Reader
+> `🔋 Zero Dependencies` • `🧪 49 tests` • `📰 6 Sources` • `🌐 EN / TR`
 
-NewsApto is a highly responsive news client engineered to demonstrate advanced data-binding techniques and modern asynchronous programming in iOS.
+> **Focus:** Multi-Source Aggregation, Zero Dependencies, Smart Scoring.
 
-* **Architecture:** `MVVM-C (Coordinator)` layout utilizing full Programmatic UI Layout Guides.
-* **Key Achievements:**
-  * Leveraged reactive frameworks (`Combine` / `RxSwift`) to establish fluid data pipelines between ViewModels and the UI.
-  * Implemented an abstract, protocol-oriented network layer with native image caching utilities.
-* **Tech Stack:** Swift, UIKit (No Storyboards), Combine/RxSwift, Generic REST Layer.
+An intelligent news reader that aggregates content from 6 sources (NewsAPI, Guardian, NYT, GNews, NewsData.io, HackerNews), then scores and ranks articles using a custom algorithm.
+
+* **Architecture:** `Clean Architecture` with strict dependency inversion, Swift actors for thread-safety.
+* **Highlights:**
+  * **SmartArticleScorer** — Multi-factor ranking (recency, content quality, source authority, trending) with cross-source deduplication.
+  * **Zero Dependencies** — 100% native Apple frameworks. No SPM, no CocoaPods, no third-party SDKs.
+  * **Terminal-Inspired UI** — Cyberpunk aesthetic with matrix code rain, glitch reveals, and neon accents.
+  * **Offline-First** — Two-tier cache (50MB memory + 200MB disk) with seamless degradation.
+  * **Smart Categorization** — 7 categories with 150+ API mappings and 300+ keyword fallback.
+  * **49 tests**, 0 build warnings.
+* **Tech Stack:** Swift, SwiftUI, URLSession, Core Data, Actors, XCTest.
 * 🔗 **Repository:** [View on GitHub](https://github.com/burak-bilgen/NewsApto)
 
 ---
 
-## 📈 Engineering Metrics & Philosophy
+## 📈 Approach
 
-* **Crash-Rate Reduction:** Strong track record of tracking production leaks using Xcode Instruments (Allocations/Leaks) to bring applications down to a <0.1% crash rate.
-* **Clean Code & Linting:** Strict adherence to `SOLID` principles and agile standardizations, enforced via custom formatting configurations.
-* **Continuous Learning:** Actively integrating modern `Swift 6 Strict Concurrency` models and exploration of unified architectures.
+* **Stability:** I use Xcode Instruments (Allocations/Leaks) to track and fix memory issues in production.
+* **Code Quality:** I follow `SOLID` principles and use automated linting to keep the codebase consistent.
+* **Learning:** Currently working with Swift 6 Strict Concurrency and exploring new architecture patterns.
 
 ---
 
-📬 **Let's Connect:** [LinkedIn](https://linkedin.com/in/burak-bilgen) | [Email](mailto:bilgenburak@outlook.com) | [GitHub](https://github.com/burak-bilgen)
+---
+
+## 📫 Let's Talk
+
+I'm open to **Senior iOS Developer** roles and freelance opportunities — especially in fintech, trading platforms, and beyond.
+
+<p align="center">
+  <a href="https://linkedin.com/in/burak-bilgen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:bilgenburak@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/burak-bilgen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
