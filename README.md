@@ -1,6 +1,10 @@
 # Hi there, I'm Burak! 👋
 ### Senior iOS Developer
 
+<p align="center">
+  <img src="hello.gif" width="60%" alt="Hello in different languages" />
+</p>
+
 I'm an iOS Developer with **4+ years of experience** building fintech, trading, and cryptocurrency applications. I focus on writing clean, modular code and building systems that are reliable and maintainable.
 
 * 🏗️ **Architecture & Concurrency:** Modular architectures, protocol-oriented design, structured concurrency.
@@ -109,6 +113,10 @@ An intelligent news reader that aggregates content from 6 sources (NewsAPI, Guar
 ---
 
 ---
+
+<p align="center">
+  <img src="city.gif" width="80%" alt="Pixel City" />
+</p>
 
 ## 📫 Let's Talk
 
