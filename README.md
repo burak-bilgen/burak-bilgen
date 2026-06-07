@@ -62,6 +62,7 @@ ForeWiz transforms Apple WeatherKit data into personalized, actionable decisions
   * **Siri Shortcuts** — 6 intents for quick weather queries.
 * **Tech Stack:** Swift, SwiftUI, WeatherKit, MapKit, TipKit, Google AdMob, SPM (WizPathKit).
 * 🔗 **Repository:** [View on GitHub](https://github.com/burak-bilgen/ForeWiz)
+* 📱 **App Store:** [Download on the App Store](https://apps.apple.com/us/app/forewiz-weather-decisions/id6768601251)
 
 ---
 
@@ -81,6 +82,7 @@ A SwiftUI movie discovery app built with the TMDB API. Approached as a small pro
   * **88 tests** (72 unit + 16 UI), all passing.
 * **Tech Stack:** Swift, SwiftUI, Swift Concurrency, Core Data, Keychain, CryptoKit, Apple Foundation Models, XCTest.
 * 🔗 **Repository:** [View on GitHub](https://github.com/burak-bilgen/DeFilms)
+* 📱 **App Store:** [Download on the App Store](https://apps.apple.com/us/app/defilms/id6764787409)
 
 ---
 
@@ -101,6 +103,7 @@ An intelligent news reader that aggregates content from 6 sources (NewsAPI, Guar
   * **49 tests**, 0 build warnings.
 * **Tech Stack:** Swift, SwiftUI, URLSession, Core Data, Actors, XCTest.
 * 🔗 **Repository:** [View on GitHub](https://github.com/burak-bilgen/NewsApto)
+* 📱 **App Store:** [Download on the App Store](https://apps.apple.com/us/app/newsapto/id6769076161)
 
 ---
 
