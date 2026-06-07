@@ -131,7 +131,7 @@ An intelligent news reader that aggregates content from 6 sources (NewsAPI, Guar
 I'm open to **Senior iOS Developer** roles and freelance opportunities — especially in fintech, trading platforms, and beyond.
 
 <p align="center">
-  <a href="https://linkedin.com/in/burak-bilgen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/burakbilgen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:bilgenburak@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
   <a href="https://burakbilgen.lovable.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
