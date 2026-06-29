@@ -96,10 +96,6 @@ Aggregates content from 6 sources (NewsAPI, Guardian, NYT, GNews, NewsData.io, H
 
 ---
 
-<p align="center">
-  <img src="city.gif" width="80%" alt="Pixel City" />
-</p>
-
 ## Let's Talk
 
 Open to **Senior iOS Developer** roles and freelance opportunities — especially in fintech, trading platforms, and cryptocurrency.
