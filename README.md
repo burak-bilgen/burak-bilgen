@@ -1,3 +1,43 @@
+<p align="center">
+  <a href="https://github.com/burak-bilgen/Vade">
+    <img src="https://img.shields.io/badge/🚀_NEW_PROJECT-Vade_Multi_Currency_Debt_Tracking-8B5CF6?style=for-the-badge&logo=swift&logoColor=white" alt="New Project: Vade" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/burak-bilgen/Vade">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=burak-bilgen&repo=Vade&theme=midnight-purple&hide_border=true&cache_seconds=86400">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burak-bilgen&repo=Vade&theme=default&hide_border=true&cache_seconds=86400" alt="Vade Repository">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Swift 6 · SwiftUI · MVVM-C · Clean Architecture · SwiftData + CloudKit · 12 Modular SPM Packages</strong>
+</p>
+
+> Vade is a **production-grade iOS application** for tracking debts and receivables across multiple currencies, including physical gold. Built with **Swift 6 strict concurrency** and **modular architecture**, it demonstrates modern iOS engineering practices from the ground up.
+
+| | |
+|---|---|
+| 🏗 **Clean Architecture + MVVM-C** | 3-layer separation (Domain → Data → Presentation) with Coordinator pattern. Domain is pure Swift — zero UIKit/SwiftUI dependencies. |
+| 📦 **12 Modular SPM Packages** | Incremental compilation — change one feature, only that package recompiles. Each package has isolated tests. |
+| ⚡️ **Swift 6 Strict Concurrency** | Complete data-race safety at compile time. Sendable, MainActor, structured async/await throughout. |
+| 💾 **SwiftData + CloudKit** | Offline-first persistence with automatic iCloud sync. Append-only audit trail for every mutation. |
+| 🎨 **In-House Design System** | 16+ reusable components. Dark-only financial palette. Custom entrance animation engine. |
+| 🧪 **Comprehensive Testing** | Swift Testing framework (no XCTest). 86%+ coverage. Native snapshot testing, zero third-party deps. |
+| 🔐 **Security** | Face ID / Touch ID app lock. Background blur on app switch. Privacy-first — no backend, user's own iCloud. |
+| 🌐 **Localization** | Turkish & English with runtime language switching (no app restart). 271 localized strings. |
+
+📱 **Features:** Multi-currency (TRY/USD/EUR/physical gold) · Live exchange rates with offline caching · Partial payments · PDF/CSV export · WidgetKit home screen widget · Due date notifications · VoiceOver accessibility · GitHub Actions CI
+
+<p align="center">
+  <a href="https://github.com/burak-bilgen/Vade"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" /></a>
+</p>
+
+---
+
 # Burak Bilgen
 ### <img src="https://img.shields.io/badge/--black?style=flat-square&logo=apple&logoColor=white" height="18" style="vertical-align: middle;" alt="Apple" /> Senior iOS Developer — Fintech & Cryptocurrency
 
@@ -33,17 +73,25 @@ Practices modular architectures with `Swift`, `SwiftUI`, and `Combine` — balan
   </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=burak-bilgen&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=burak-bilgen&theme=github-dark&hide_border=true&radius=6" width="95%" alt="Contribution Graph" />
-</p>
-
 ---
 
 ## Featured Projects
+
+### 🚀 Vade — Multi-Currency Debt Tracking
+> `Swift 6` • `SwiftUI` • `MVVM-C` • `Clean Architecture` • `SwiftData + CloudKit` • `12 Modular SPM Packages`
+
+Production-grade iOS app for tracking debts and receivables across TRY, USD, EUR, and physical gold. Built with Swift 6 strict concurrency, offline-first SwiftData + CloudKit sync, and a modular 12-package architecture.
+
+- **Clean Architecture:** 3-layer separation — Domain (pure Swift), Data (SwiftData repositories), Presentation (SwiftUI)
+- **Swift 6 Concurrency:** Complete data-race safety with Sendable, MainActor, and structured async/await
+- **SwiftData + CloudKit:** Offline-first with automatic iCloud sync via user's private database. Append-only audit trail.
+- **Design System:** 16+ in-house components, dark-only financial palette, custom entrance animation engine
+- **Testing:** Swift Testing framework (no XCTest), 86%+ coverage, native snapshot testing
+- **Security:** Face ID / Touch ID app lock with background blur. No backend — user data stays in iCloud.
+- **Features:** Multi-currency + physical gold · Live TCMB exchange rates with offline caching · Partial payments · PDF/CSV export · WidgetKit widget · Turkish & English localization · VoiceOver accessibility
+- 🔗 [Repository](https://github.com/burak-bilgen/Vade)
+
+---
 
 ### ForeWiz — Weather Decision Assistant
 > `iOS 17+` • `WeatherKit` • `Decision Engine` • `Route Planning`
