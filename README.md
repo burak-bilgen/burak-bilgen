@@ -6,10 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/burak-bilgen/Vade">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=burak-bilgen&repo=Vade&theme=midnight-purple&hide_border=true&cache_seconds=86400">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burak-bilgen&repo=Vade&theme=default&hide_border=true&cache_seconds=86400" alt="Vade Repository">
-    </picture>
+    <img src="https://img.shields.io/badge/github.com/burak--bilgen/Vade-181717?style=for-the-badge&logo=github&logoColor=white" alt="Vade Repository" />
   </a>
 </p>
 
@@ -71,6 +68,14 @@ Practices modular architectures with `Swift`, `SwiftUI`, and `Combine` — balan
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=burak-bilgen&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=burak-bilgen&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=burak-bilgen&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=burak-bilgen&theme=github-dark&hide_border=true&radius=6" width="95%" alt="Contribution Graph" />
 </p>
 
 ---
