@@ -1,36 +1,7 @@
 <p align="center">
   <a href="https://github.com/burak-bilgen/Vade">
-    <img src="https://img.shields.io/badge/🚀_NEW_PROJECT-Vade_Multi_Currency_Debt_Tracking-8B5CF6?style=for-the-badge&logo=swift&logoColor=white" alt="New Project: Vade" />
+    <img src="https://img.shields.io/badge/🔥_Check_out_my_new_project-Vade_Multi_Currency_Debt_Tracking-8B5CF6?style=for-the-badge&logo=swift&logoColor=white" alt="Check out my new project: Vade" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/burak-bilgen/Vade">
-    <img src="https://img.shields.io/badge/github.com/burak--bilgen/Vade-181717?style=for-the-badge&logo=github&logoColor=white" alt="Vade Repository" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Swift 6 · SwiftUI · MVVM-C · Clean Architecture · SwiftData + CloudKit · 12 Modular SPM Packages</strong>
-</p>
-
-> Vade is a **production-grade iOS application** for tracking debts and receivables across multiple currencies, including physical gold. Built with **Swift 6 strict concurrency** and **modular architecture**, it demonstrates modern iOS engineering practices from the ground up.
-
-| | |
-|---|---|
-| 🏗 **Clean Architecture + MVVM-C** | 3-layer separation (Domain → Data → Presentation) with Coordinator pattern. Domain is pure Swift — zero UIKit/SwiftUI dependencies. |
-| 📦 **12 Modular SPM Packages** | Incremental compilation — change one feature, only that package recompiles. Each package has isolated tests. |
-| ⚡️ **Swift 6 Strict Concurrency** | Complete data-race safety at compile time. Sendable, MainActor, structured async/await throughout. |
-| 💾 **SwiftData + CloudKit** | Offline-first persistence with automatic iCloud sync. Append-only audit trail for every mutation. |
-| 🎨 **In-House Design System** | 16+ reusable components. Dark-only financial palette. Custom entrance animation engine. |
-| 🧪 **Comprehensive Testing** | Swift Testing framework (no XCTest). 86%+ coverage. Native snapshot testing, zero third-party deps. |
-| 🔐 **Security** | Face ID / Touch ID app lock. Background blur on app switch. Privacy-first — no backend, user's own iCloud. |
-| 🌐 **Localization** | Turkish & English with runtime language switching (no app restart). 271 localized strings. |
-
-📱 **Features:** Multi-currency (TRY/USD/EUR/physical gold) · Live exchange rates with offline caching · Partial payments · PDF/CSV export · WidgetKit home screen widget · Due date notifications · VoiceOver accessibility · GitHub Actions CI
-
-<p align="center">
-  <a href="https://github.com/burak-bilgen/Vade"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" /></a>
 </p>
 
 ---
