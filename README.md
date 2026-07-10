@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/burak-bilgen/Vade">
-    <img src="https://img.shields.io/badge/🔥_Check_out_my_new_project-Vade_Multi_Currency_Debt_Tracking-8B5CF6?style=for-the-badge&logo=swift&logoColor=white" alt="Check out my new project: Vade" />
+    <img src="https://img.shields.io/badge/🔥_Check_out_my_new_project-Vade_|_Multi_Currency_Debt_Tracking-8B5CF6?style=for-the-badge&logo=swift&logoColor=white" alt="Check out my new project: Vade" />
   </a>
 </p>
 
