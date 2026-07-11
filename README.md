@@ -45,10 +45,6 @@ Practices modular architectures with `Swift`, `SwiftUI`, and `Combine` — balan
   <img src="https://streak-stats.demolab.com/?user=burak-bilgen&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=burak-bilgen&theme=github-dark&hide_border=true&radius=6" width="95%" alt="Contribution Graph" />
-</p>
-
 ---
 
 ## Featured Projects
