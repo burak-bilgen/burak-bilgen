@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/burak-bilgen/Vade">
-    <img src="https://img.shields.io/badge/🔥_Check_out_my_new_project-Vade_|_Multi_Currency_Debt_Tracking-8B5CF6?style=for-the-badge&logo=swift&logoColor=white" alt="Check out my new project: Vade" />
+  <a href="https://github.com/burak-bilgen/Songleton">
+    <img src="https://img.shields.io/badge/🔥_Check_out_my_new_project-Songleton_|_macOS_Music_Companion-6D5DFB?style=for-the-badge&logo=apple&logoColor=white" alt="Check out my new project: Songleton" />
   </a>
 </p>
 
@@ -48,6 +48,22 @@ Practices modular architectures with `Swift`, `SwiftUI`, and `Combine` — balan
 ---
 
 ## Featured Projects
+
+### 🎵 Songleton — macOS Music Companion
+> `macOS 14+` • `Swift` • `SwiftUI` • `Spotify + Apple Music` • `Menu Bar App`
+
+A native macOS companion for Spotify and Apple Music that keeps playback control in the menu bar, turns screen edges into spatial gestures, and opens Ambient Mode when the music deserves the screen. Published as a signed, notarized app.
+
+- **Menu Bar, Without Nonsense** — Track title, previous, next, and play/pause appear only while a supported player has usable playback
+- **Screen-Edge Gestures** — Hold the left/right/top edge for previous/next/play-pause, drag to change volume, with visible feedback and cancellable triggers
+- **Permanent Mini Player** — Draggable desktop widget with 8-point magnetic snap, in-place cross-fade, marquee text, and interactive controls
+- **Ambient Mode** — Full-screen music scene with Vinyl, Cassette, and Glass themes, synced LRC lyrics, sleep timer, and keyboard shortcuts
+- **New-Track HUD** — Non-activating track notification on any of 8 screen placements that never steals focus
+- **Local-First Privacy** — No account, no analytics, no tracking, no listening-history upload. Automation + Accessibility permissions only
+- **Distribution** — Homebrew cask (`brew install --cask songleton`) + direct DMG downloads
+- 🔗 [Repository](https://github.com/burak-bilgen/Songleton) · 🌐 [Website](https://burak-bilgen.github.io/Songleton/) · 🍺 [Homebrew](https://github.com/burak-bilgen/homebrew-tap)
+
+---
 
 ### 🚀 Vade — Multi-Currency Debt Tracking
 > `Swift 6` • `SwiftUI` • `MVVM-C` • `Clean Architecture` • `SwiftData + CloudKit` • `12 Modular SPM Packages`
