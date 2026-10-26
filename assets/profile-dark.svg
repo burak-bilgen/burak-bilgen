@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Burak Bilgen — Senior iOS Developer</title>
+  <desc id="desc">Apps for iPhone and Mac. Swift, SwiftUI, UIKit.</desc>
+  <defs><linearGradient id="background" x2="1" y2=".5"><stop stop-color="#151726"/><stop offset="1" stop-color="#1b293b"/></linearGradient></defs>
+  <rect width="1200" height="380" rx="16" fill="url(#background)"/>
+  <g font-family="Helvetica, Arial, sans-serif">
+    <text x="48" y="51" font-size="13" letter-spacing="2" fill="#a7abc5">iOS / macOS / SWIFT</text>
+    <path d="M48 76H1152" stroke="#30344c"/>
+    <text x="44" y="167" font-size="72" font-weight="700" letter-spacing="-3" fill="#f1f0ff">Burak Bilgen</text>
+    <text x="48" y="220" font-size="30" fill="#b3a5ff">Senior iOS Developer</text>
+    <text x="48" y="271" font-size="20" fill="#a7abc5">I build apps for iPhone and Mac.</text>
+    <path d="M48 314H1152" stroke="#30344c"/>
+    <text x="48" y="350" font-size="13" letter-spacing="1.5" fill="#a7abc5">SWIFTUI / UIKIT / APPKIT</text>
+    <text x="1152" y="350" text-anchor="end" font-size="13" fill="#a7abc5">burak-bilgen</text>
+  </g>
+  <g fill="none" stroke="#b3a5ff" stroke-width="1.5">
+    <rect x="885" y="112" width="196" height="150" rx="18" opacity=".2"/>
+    <rect x="866" y="130" width="196" height="150" rx="18" opacity=".4"/>
+    <rect x="847" y="148" width="196" height="150" rx="18" fill="#151726"/>
+    <path d="M847 182H1043" stroke="#30344c"/>
+    <path d="M913 211L895 229L913 247 M978 211L996 229L978 247 M955 204L937 254" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="#b3a5ff" opacity=".7"><circle cx="866" cy="165" r="3"/><circle cx="878" cy="165" r="3"/><circle cx="890" cy="165" r="3"/></g>
+</svg>

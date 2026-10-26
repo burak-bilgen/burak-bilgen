@@ -1,143 +1,72 @@
-<p align="center">
-  <a href="https://github.com/burak-bilgen/Songleton">
-    <img src="https://img.shields.io/badge/🔥_Check_out_my_new_project-Songleton_|_macOS_Music_Companion-6D5DFB?style=for-the-badge&logo=apple&logoColor=white" alt="Check out my new project: Songleton" />
-  </a>
-</p>
-
----
-
-# Burak Bilgen
-### <img src="https://img.shields.io/badge/--black?style=flat-square&logo=apple&logoColor=white" height="18" style="vertical-align: middle;" alt="Apple" /> Senior iOS Developer — Fintech & Cryptocurrency
-
-Senior iOS Developer with **4+ years of experience** shipping production apps in fintech and cryptocurrency. Focused on building high-performance trading interfaces, KYC verification flows, multi-currency wallets, and real-time data streams at scale.
-
-Practices modular architectures with `Swift`, `SwiftUI`, and `Combine` — balancing performance with security at every layer. Refines product design and user experience through published App Store projects.
-
-- **Architecture & Concurrency:** Modular architectures, protocol-oriented design, structured concurrency (Swift 6)
-- **Fintech Security:** SSL pinning, secure storage, WebSocket communication, KYC compliance
-- **Engineering Practices:** Memory profiling (Instruments), Swift 6 Strict Concurrency, TDD, CI/CD automation
-
----
-
-## Technical Toolbox
-
-| Category | Technologies |
-|---|---|
-| **Languages & Frameworks** | `Swift` • `SwiftUI` • `UIKit` • `Combine` • `RxSwift` |
-| **Architecture** | `MVVM` • `MVVM-C` • `VIPER` • `Clean Architecture` |
-| **Networking & Data** | `REST APIs` • `WebSockets` • `Firebase` • `Core Data` • `Realm` |
-| **Security** | `SSL Pinning` • `Keychain` • `Secure Storage` |
-| **Tools & DevOps** | `Xcode` • `Xcode Cloud` • `CircleCI` • `SPM` • `Postman` • `Proxyman` • `Firebase Crashlytics` |
-| **Engineering Practices** | `TDD` • `Unit Testing` • `Code Review` • `Agile (Scrum, Kanban)` |
-
----
-
-## GitHub Analytics
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <img src="assets/profile-light.svg" width="100%" alt="Burak Bilgen — Senior iOS Developer. iOS, macOS, and Swift.">
+</picture>
 
 <p align="center">
-  <a href="https://github.com/burak-bilgen">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=burak-bilgen&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=burak-bilgen&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
+  <a href="https://www.linkedin.com/in/burakbilgen">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:bilgenburak@outlook.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://github.com/burak-bilgen?tab=repositories">Repositories</a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=burak-bilgen&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+I'm Burak, an iOS developer with a background in **fintech and cryptocurrency**. I work mostly in Swift, SwiftUI, and UIKit. Outside work, I build my own apps for iPhone and Mac, and lately I've been making games too.
+
+These repos cover different things I enjoy working on: payment handling, local storage, desktop integrations, and game logic. A few are ready to download; others are still in development.
+
+## Selected projects
+
+<a href="https://github.com/burak-bilgen/EvaLedger"><img src="assets/evaledger.svg" width="100%" alt="01 / EvaLedger — Banking sync"></a>
+
+A banking demo focused on what happens when a payment request times out or the app closes before getting an answer.
+
+The app saves each attempt before sending it, keeps unconfirmed payments across launches, and checks them against the bank's transaction feed. Retries use the same idempotency key. The tests use a fake bank to reproduce lost responses, duplicate entries, and crashes during a payment.
+
+`SwiftUI` `Actors` `Swift Testing`
+
+[Repository ↗](https://github.com/burak-bilgen/EvaLedger) &nbsp; · &nbsp; [Payment engine](https://github.com/burak-bilgen/EvaLedger/blob/main/EvaLedger/Core/Engine/PaymentEngine.swift) &nbsp; · &nbsp; [Recovery tests](https://github.com/burak-bilgen/EvaLedger/blob/main/EvaLedgerTests/Scenarios/Scenario4KilledMidFlightTests.swift)
+
+<br>
+
+<a href="https://github.com/burak-bilgen/GoodFindGame"><img src="assets/good-find.svg" width="100%" alt="02 / Good Find — iPhone trading game"></a>
+
+An offline iPhone game about buying, fixing, and selling secondhand items. You inspect what you've bought, decide which repairs are worth paying for, and negotiate with buyers.
+
+I built the simulation separately from the SwiftUI screens. It handles prices, repairs, buyers, and events that progress while you're away. Saves are validated when loaded, with backups and recovery for damaged files. The game supports six languages, Dynamic Type, and Reduce Motion.
+
+`Swift 6` `SwiftUI` `Simulation` `Local persistence`
+
+[Repository ↗](https://github.com/burak-bilgen/GoodFindGame) &nbsp; · &nbsp; [Simulation code](https://github.com/burak-bilgen/GoodFindGame/tree/main/ProjectFlip/Simulation) &nbsp; · &nbsp; [Save system](https://github.com/burak-bilgen/GoodFindGame/tree/main/ProjectFlip/Persistence)
+
+<sub>In development · iOS 26+ · Not yet on the App Store</sub>
+
+<br><br>
+
+<a href="https://github.com/burak-bilgen/Songleton"><img src="assets/songleton.svg" width="100%" alt="03 / Songleton — Music controls for Mac"></a>
+
+A Mac app for controlling music from the menu bar or the edges of your screen. It also has a draggable mini player and a full-screen ambient mode.
+
+Much of the work is in the macOS details: talking to music players, handling Automation permissions, keeping playback information up to date, and showing controls without taking focus from another app. Available as a direct download and through Homebrew.
+
+`Swift` `SwiftUI` `AppKit` `AppleScript`
+
+[Repository ↗](https://github.com/burak-bilgen/Songleton) &nbsp; · &nbsp; [Download](https://github.com/burak-bilgen/Songleton/releases/latest) &nbsp; · &nbsp; [Player integration](https://github.com/burak-bilgen/Songleton/blob/main/Songleton/Domain/Playback/MediaController.swift)
+
+## Other projects
+
+| Project | About |
+| :--- | :--- |
+| **[Vade](https://github.com/burak-bilgen/Vade)** | Debt tracking across currencies and physical gold. Built with modular Swift packages, SwiftData, and CloudKit. |
+| **[ForeWiz](https://github.com/burak-bilgen/ForeWiz)** | Weather-based activity suggestions and route planning using WeatherKit and MapKit. |
+| **[DeFilms](https://github.com/burak-bilgen/DeFilms)** | Movie discovery with on-device recommendations and support for English, Turkish, and Arabic. |
+| **[NewsApto](https://github.com/burak-bilgen/NewsApto)** | A news reader that combines multiple sources, ranks articles, and saves them for offline reading. |
+| **[Project Asahi](https://github.com/burak-bilgen/Project-Asahi)** | A game project in Godot and GDScript, with save, time, job, and progression systems. |
+
+## How I work
+
+I like keeping business logic separate from UI code so I can test it without driving a screen. For async work, I pay particular attention to what happens when a request fails, finishes late, or gets interrupted.
+
+I also spend time on the less visible parts of an app: save migrations, permission handling, accessibility, and localization. They're easy to put off, but they affect whether an app is comfortable to use every day.
 
 ---
 
-## Featured Projects
-
-### 🎵 Songleton — macOS Music Companion
-> `macOS 14+` • `Swift` • `SwiftUI` • `Spotify + Apple Music` • `Menu Bar App`
-
-A native macOS companion for Spotify and Apple Music that keeps playback control in the menu bar, turns screen edges into spatial gestures, and opens Ambient Mode when the music deserves the screen. Published as a signed, notarized app.
-
-- **Menu Bar, Without Nonsense** — Track title, previous, next, and play/pause appear only while a supported player has usable playback
-- **Screen-Edge Gestures** — Hold the left/right/top edge for previous/next/play-pause, drag to change volume, with visible feedback and cancellable triggers
-- **Permanent Mini Player** — Draggable desktop widget with 8-point magnetic snap, in-place cross-fade, marquee text, and interactive controls
-- **Ambient Mode** — Full-screen music scene with Vinyl, Cassette, and Glass themes, synced LRC lyrics, sleep timer, and keyboard shortcuts
-- **New-Track HUD** — Non-activating track notification on any of 8 screen placements that never steals focus
-- **Local-First Privacy** — No account, no analytics, no tracking, no listening-history upload. Automation + Accessibility permissions only
-- **Distribution** — Homebrew cask (`brew install --cask songleton`) + direct DMG downloads
-- 🔗 [Repository](https://github.com/burak-bilgen/Songleton) · 🌐 [Website](https://burak-bilgen.github.io/Songleton/) · 🍺 [Homebrew](https://github.com/burak-bilgen/homebrew-tap)
-
----
-
-### 🚀 Vade — Multi-Currency Debt Tracking
-> `Swift 6` • `SwiftUI` • `MVVM-C` • `Clean Architecture` • `SwiftData + CloudKit` • `12 Modular SPM Packages`
-
-Production-grade iOS app for tracking debts and receivables across TRY, USD, EUR, and physical gold. Built with Swift 6 strict concurrency, offline-first SwiftData + CloudKit sync, and a modular 12-package architecture.
-
-- **Clean Architecture:** 3-layer separation — Domain (pure Swift), Data (SwiftData repositories), Presentation (SwiftUI)
-- **Swift 6 Concurrency:** Complete data-race safety with Sendable, MainActor, and structured async/await
-- **SwiftData + CloudKit:** Offline-first with automatic iCloud sync via user's private database. Append-only audit trail.
-- **Design System:** 16+ in-house components, dark-only financial palette, custom entrance animation engine
-- **Testing:** Swift Testing framework (no XCTest), 86%+ coverage, native snapshot testing
-- **Security:** Face ID / Touch ID app lock with background blur. No backend — user data stays in iCloud.
-- **Features:** Multi-currency + physical gold · Live TCMB exchange rates with offline caching · Partial payments · PDF/CSV export · WidgetKit widget · Turkish & English localization · VoiceOver accessibility
-- 🔗 [Repository](https://github.com/burak-bilgen/Vade)
-
----
-
-### ForeWiz — Weather Decision Assistant
-> `iOS 17+` • `WeatherKit` • `Decision Engine` • `Route Planning`
-
-ForeWiz transforms Apple WeatherKit data into actionable decisions. It scores outdoor conditions (0–100), recommends activities and outfits, and analyzes health impact — migraine, sleep, joints, respiratory, stamina.
-
-- **WizPath** — Climate-aware route planning with multi-modal routing (driving, cycling, walking, EV), weather-coded map overlays, safety alerts, and departure optimization
-- **Liquid Glass Design System** — Premium dark-mode UI with animated gradient orbs, glass cards, and weather-responsive themes
-- **Monetization** — AdMob with smart fatigue prevention and consent management
-- **6 Siri Shortcuts** — Quick weather queries
-- **Tech:** `Swift` • `SwiftUI` • `WeatherKit` • `MapKit` • `TipKit` • `AdMob` • `WizPathKit`
-- 🔗 [Repository](https://github.com/burak-bilgen/ForeWiz) · 📱 [App Store](https://apps.apple.com/us/app/forewiz-weather-decisions/id6768601251)
-
----
-
-### DeFilms — Movie Discovery
-> `88 tests` • `Apple Intelligence` • `EN / TR / AR`
-
-A SwiftUI movie discovery app built with the TMDB API. Approached as a product rather than a demo — stable navigation, testable state, polished localization.
-
-- **AI Picks** — On-device movie recommendations via Apple Foundation Models with mood-based prompts and graceful fallback
-- **Custom Lists** — Multiple named lists with full CRUD instead of a single flat saved bucket
-- **Localization** — English, Turkish, Arabic with RTL-aware layout
-- **88 tests** (72 unit + 16 UI), all passing
-- **Tech:** `Swift` • `SwiftUI` • `Core Data` • `Keychain` • `CryptoKit` • `Apple Foundation Models`
-- 🔗 [Repository](https://github.com/burak-bilgen/DeFilms) · 📱 [App Store](https://apps.apple.com/us/app/defilms/id6764787409)
-
----
-
-### NewsApto — Intelligent News Reader
-> `Zero Dependencies` • `49 tests` • `6 Sources` • `EN / TR`
-
-Aggregates content from 6 sources (NewsAPI, Guardian, NYT, GNews, NewsData.io, HackerNews), ranks articles with a custom scoring algorithm, and serves them in a terminal-inspired cyberpunk interface.
-
-- **SmartArticleScorer** — Multi-factor ranking: recency, content quality, source authority, trending, cross-source deduplication
-- **Zero Dependencies** — 100% native Apple frameworks. No SPM, no CocoaPods, no third-party SDKs
-- **Terminal-Inspired UI** — Cyberpunk aesthetic with matrix code rain, glitch reveals, neon accents
-- **Offline-First** — Two-tier cache (50 MB memory + 200 MB disk) with seamless degradation
-- **49 tests**, 0 build warnings
-- **Tech:** `Swift` • `SwiftUI` • `URLSession` • `Core Data` • `Actors`
-- 🔗 [Repository](https://github.com/burak-bilgen/NewsApto) · 📱 [App Store](https://apps.apple.com/us/app/newsapto/id6769076161)
-
----
-
-## Approach
-
-- **Stability** — Uses Xcode Instruments (Allocations / Leaks) to track and fix memory issues in production
-- **Code Quality** — SOLID principles, automated linting, consistent codebase
-- **Growth** — Currently working with Swift 6 Strict Concurrency and exploring new architecture patterns
-
----
-
-## Let's Talk
-
-Open to **Senior iOS Developer** roles and freelance opportunities — especially in fintech, trading platforms, and cryptocurrency.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/burakbilgen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:bilgenburak@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
-  <a href="https://burakbilgen.lovable.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-</p>
+For iOS roles, freelance work, or questions about these projects, you can reach me at **[bilgenburak@outlook.com](mailto:bilgenburak@outlook.com)** or on **[LinkedIn](https://www.linkedin.com/in/burakbilgen)**.
