@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="144" viewBox="0 0 1200 144" role="img" aria-labelledby="title">
-  <title id="title">Good Find — Find the value others missed.</title>
+  <title id="title">Good Find: Buy, Fix &amp; Sell — Find the value others missed.</title>
   <defs><linearGradient id="background"><stop stop-color="#292441"/><stop offset="1" stop-color="#383252"/></linearGradient></defs>
   <rect width="1200" height="144" rx="12" fill="url(#background)"/>
   <rect x="0" y="28" width="4" height="88" rx="2" fill="#c8b5fa"/>
   <g font-family="Helvetica, Arial, sans-serif">
     <text x="32" y="49" font-size="14" letter-spacing="2" fill="#c8b5fa">02</text>
-    <text x="30" y="105" font-size="40" font-weight="700" letter-spacing="-1" fill="#f5f5fc">Good Find</text>
+    <text x="30" y="105" font-size="40" font-weight="700" letter-spacing="-1" fill="#f5f5fc">Good Find: Buy, Fix &amp; Sell</text>
     <text x="1158" y="80" text-anchor="end" font-size="22" fill="#c8b5fa">Find the value others missed.</text>
   </g>
 </svg>

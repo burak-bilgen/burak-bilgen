@@ -27,7 +27,7 @@ It works offline and syncs through your private iCloud database. I split the app
 
 <br>
 
-<a href="https://github.com/burak-bilgen/GoodFindGame"><img src="assets/good-find.svg" width="100%" alt="02 / Good Find — Find the value others missed."></a>
+<a href="https://github.com/burak-bilgen/GoodFindGame"><img src="assets/good-find.svg" width="100%" alt="02 / Good Find: Buy, Fix &amp; Sell — Find the value others missed."></a>
 
 A cheap listing isn't always a bargain. In **Good Find: Buy, Fix & Sell**, you build a secondhand trading business by checking items, uncovering faults, choosing repairs, and negotiating a resale. The final receipt tells you whether the deal was actually worth it.
 
